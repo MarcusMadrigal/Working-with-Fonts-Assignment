@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Lavishly+Yours&family=Ole&display=swap');
+
+p{font-size: 24px};
+
+p.fontNormal{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
+
+p.font1{font-family: 'Black Ops One'}
+
+p.font2{font-family: 'Lavishly Yours'}
+
+p.font3{font-family: 'Ole'}
